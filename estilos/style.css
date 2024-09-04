@@ -54,7 +54,7 @@ div#formulario > h1{
 div#formulario > p{
     font-size: .8em;
 }
-form > a{
+form a{
     text-decoration: none;
     color: #5F98F2;
 }
