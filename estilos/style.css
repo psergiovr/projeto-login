@@ -3,3 +3,21 @@
 /*paleta de cores 
 verde - #49a09d
 lilas - #5f2c82*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#imagem{
+    background: url(../imagens/pexels-sean-whang-25006-804269.jpg);
+}
+#formulario{
+    width: 90vw;
+    display: block;
+    margin: auto;
+    background-color: rgba(61, 60, 60, 0.573);
+    color: white;
+    padding: 10px;
+}
