@@ -25,13 +25,13 @@ section#login{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     overflow: hidden;
     background-color: white;
     width: 250px;
     height: 560px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.589);
+    transform: translate(-50%, -50%);
     transition: width 0.4s, heigth 0.4s;
     transition-timing-function: ease;
 }
@@ -70,11 +70,11 @@ div.campo > label{
 div > input{
     width: calc(100% - 30px);
     height: 100%;
-    transform: translateY(-1px);
     padding: 4px;
     border: 1px solid black;
     border-radius: 4px 0px 4px 0px;
     font-size: 1em;
+    transform: translateY(-1px);
 }
 div > input:hover{
     background-color: rgba(255, 255, 255, 0.564);
