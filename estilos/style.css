@@ -76,6 +76,10 @@ div > input{
     border-radius: 4px 0px 4px 0px;
     font-size: 1em;
 }
+div > input:hover{
+    background-color: rgba(255, 255, 255, 0.564);
+    cursor: pointer;
+}
 form > input[type="submit"]{
     display: block;
     font-size: 1em;
