@@ -64,9 +64,7 @@ form div.campo{
     border-radius: 6px 0px 6px 0px;
     color: white;
 }
-div.campo > label{
-    display: none;
-}
+
 div > input{
     width: calc(100% - 30px);
     height: 100%;
